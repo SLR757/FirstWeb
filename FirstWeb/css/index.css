@@ -178,13 +178,13 @@ a {
 }
 
 .banner-box li:nth-child(1) {
-    background-image: url(../images/111.jpg);
+    background-image: url(../images/1.jpg);
     /*background-position:-50px -50px;*/
 }
 
 .banner-box li:nth-child(2) {
     transform: rotateY(60deg);
-    background-image: url(../images/121.jpg);
+    background-image: url(../images/2.jpg);
 }
 
 .banner-box li:nth-child(3) {
@@ -251,8 +251,8 @@ a {
 }
 
 .video-title {
-    width: 225px;
-    height: 110px;
+    width: 160px;
+    height: 71px;
     margin: 0 auto;
     background: url(../images/images/t1_03.png);
 }
